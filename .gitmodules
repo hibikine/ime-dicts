@@ -1,3 +1,6 @@
 [submodule "ime-dicts-priv"]
 	path = ime-dicts-priv
 	url = git@github.com:hibikine/ime-dicts-priv.git
+[submodule "Splatoon_IME"]
+	path = Splatoon_IME
+	url = git@github.com:kjozk/Splatoon_IME.git

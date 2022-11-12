@@ -1,0 +1,3 @@
+[submodule "ime-dicts-priv"]
+	path = ime-dicts-priv
+	url = git@github.com:hibikine/ime-dicts-priv.git
